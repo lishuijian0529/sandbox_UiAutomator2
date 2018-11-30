@@ -1,0 +1,78 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyAttributeOutsideInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="PyByteLiteralInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyCallingNonCallableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyNonAsciiCharInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E712" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N803" />
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyRedundantParenthesesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="file" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PySimplifyBooleanCheckInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="火箭Test.Appium_Service.desired_caps" />
+          <option value="火箭Test.Appium_Service.select_device" />
+          <option value="common.common.WeChat.Wechat_Icon" />
+          <option value="common.common.WeChat.Strat_Wechat" />
+          <option value="common.common.WeChat.KJ" />
+          <option value="common.common.WeChat.XNDW" />
+          <option value="common.common.WeChat.Tv_New" />
+          <option value="common.common.WeChat.Implicitly_Wait" />
+          <option value="Test.common.WeChat.Tv_New" />
+          <option value="Test.common.WeChat.XNDW" />
+          <option value="Test.common.WeChat.KJ" />
+          <option value="Test.common.WeChat.Wechat_Icon" />
+          <option value="Test.common.WeChat.Strat_Wechat" />
+          <option value="Test.common.WeChat.Start_Wechat" />
+          <option value="Test.common.WeChat.Name" />
+          <option value="Test.common.WeChat.Switch" />
+          <option value="Test.xxmj_page.xxmj.Get" />
+          <option value="int.__getitem__" />
+          <option value="HJ.Run.Appium" />
+          <option value="str.decode" />
+          <option value="list.decode" />
+          <option value="dict.has_key" />
+          <option value="demjson" />
+          <option value="PyV8" />
+          <option value="duoduo_api" />
+          <option value="TokenYZ" />
+          <option value="CD.Mode.Vpn" />
+          <option value="CD.Mode.File" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
